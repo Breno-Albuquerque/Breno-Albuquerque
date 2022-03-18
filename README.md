@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Breno Albuquerque</h1>
 <h3 align="center">Full Stack Devoloper Student at Trybe</h3>
 
-- 📫 **brenoralbu@hotmail.com**
-- My linkedin: <a href="https://linkedin.com/in/breno albuquerque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="breno albuquerque" height="30" width="40" /></a>
-</p>
+### 📫 How to reach me:
+
+- Website: -...-
+- Linkedin: [@Breno Albuquerque](https://www.linkedin.com/in/breno-albuquerque/)
+- Email: brenoralbu@hotmail.com
 
 <h3 align="left">Languages and Tools:</h3>
 </br>
@@ -15,5 +17,5 @@
 
 </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=breno-albuquerque)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
