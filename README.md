@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Breno Albuquerque</h1>
 <h3 align="center">Full Stack Devoloper Student at Trybe</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=breno-albuquerque&label=Profile%20views&color=0e75b6&style=flat" alt="breno-albuquerque" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=breno-albuquerque" alt="breno-albuquerque" /></a> </p>
-
-
 - 📫 How to reach me **brenoralbu@hotmail.com**
+- <a href="https://linkedin.com/in/breno albuquerque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="breno albuquerque" height="30" width="40" /></a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,7 +16,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=breno-albuquerque&show_icons=true&locale=en" alt="breno-albuquerque" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=breno-albuquerque&" alt="breno-albuquerque" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=breno-albuquerque&show_icons=true&locale=en&layout=compact" alt="breno-albuquerque" /></p
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=breno-albuquerque&" alt="breno-albuquerque" /></p>
+>
