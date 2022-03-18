@@ -3,6 +3,7 @@
 
 <h4>Get in touch:</h4>
 - 📫 **brenoralbu@hotmail.com**
+- </br>
 -My linkedin: <a href="https://linkedin.com/in/breno albuquerque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="breno albuquerque" height="30" width="40" /></a>
 </p>
 
