@@ -14,4 +14,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=breno-albuquerque&show_icons=true&locale=en&layout=compact" alt="breno-albuquerque" /></p>
 
+<p>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)<p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=breno-albuquerque&" alt="breno-albuquerque" /></p>
