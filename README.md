@@ -7,9 +7,6 @@
 - Linkedin: [@Breno Albuquerque](https://www.linkedin.com/in/breno-albuquerque/)
 - Email: brenoralbu@hotmail.com
 
-<h3 align="center">Languages and Tools:</h3>
-</br>
-
 ### Languages and Tools:  
 
 <code><img height="38" src="./Images/html5.png" alt="html5"/></code>
