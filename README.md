@@ -14,9 +14,10 @@
 
 <code><img height="38" src="./images/html5.png" alt="html5"/></code>
 <code><img height="38" src="./images/css3.png" alt="css3"/></code>
-<code><img height="38" src="./images/js.png" alt="Java Script"></code>
+<code><img height="38" src="./images/javascript.png" alt="Java Script"></code>
 <code><img height="38" src="./images/git.png" alt="git"/></code>
 <code><img height="38" src="./images/react.png" alt="react"></code>
+<code><img height="38" src="./images/redux.png" alt="redux"></code>
 
 ---
 
