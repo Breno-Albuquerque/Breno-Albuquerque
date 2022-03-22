@@ -22,10 +22,10 @@
 
 ### Stats
 
-<a target="_blank" href="https://github.com/thayscosta3">
+<a target="_blank" href="https://github.com/Breno-Albuquerque">
   <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=breno-albuquerque&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true" />
 </a>
 
-<a target="_blank" href="https://github.com/thayscosta3">
+<a target="_blank" href="https://github.com/Breno-Albuquerque">
   <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-albuquerque&layout=compact&show_icons=true&hide_border=true&theme=dark&langs_count=10" />
 </a>
