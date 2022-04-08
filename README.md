@@ -3,10 +3,10 @@
 
 ### About me:
 
-- Website: -...-
 - Linkedin: [@Breno Albuquerque](https://www.linkedin.com/in/breno-albuquerque/)
-- 📫 Email: brenoralbu@hotmail.com
-- 💬 Ask me about **JavaScript, HTML, CSS and React**
+-  :fire: Portfolio: -...-
+-  📫  Email: brenoralbu@hotmail.com
+-  💬  Ask me about **JavaScript, HTML, CSS and React**
 
 ---
 
