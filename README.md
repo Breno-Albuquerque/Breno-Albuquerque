@@ -6,7 +6,7 @@
 - Linkedin: [@Breno Albuquerque](https://www.linkedin.com/in/breno-albuquerque/)
 -  :fire: - Portfolio: -...-
 -  📫 - Email: brenoralbu@hotmail.com
--  💬 - Ask me about **JavaScript, HTML, CSS and React**
+-  💬 - Ask me about **React, JavaScript, HTML, and CSS**
 
 ---
 
