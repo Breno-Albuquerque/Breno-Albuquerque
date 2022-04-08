@@ -1,22 +1,20 @@
 <h1 align="center">Hi 👋, I'm Breno Albuquerque</h1>
 <h3 align="center">Full Stack Devoloper Student at Trybe</h3>
 
-### 📫 How to reach me:
+### About me:
 
 - Website: -...-
 - Linkedin: [@Breno Albuquerque](https://www.linkedin.com/in/breno-albuquerque/)
-- Email: brenoralbu@hotmail.com
+- 📫 Email: brenoralbu@hotmail.com
+- 💬 Ask me about **JavaScript, HTML, CSS and React**
 
 ---
 
-### Languages and Tools:  
-
-<code><img height="38" src="./Images/html5.png" alt="html5"/></code>
-<code><img height="38" src="./Images/css3.png" alt="css3"/></code>
-<code><img height="38" src="./Images/javascript.png" alt="Java Script"></code>
-<code><img height="38" src="./Images/git.png" alt="git"/></code>
-<code><img height="38" src="./Images/react.png" alt="react"></code>
-<code><img height="38" src="./Images/redux.png" alt="redux"></code>
+### Tech Stack 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
 
 ---
 
