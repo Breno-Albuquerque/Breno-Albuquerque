@@ -22,7 +22,6 @@
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-
 ---
 
 ### Stats
@@ -30,7 +29,6 @@
 <a target="_blank" href="https://github.com/Breno-Albuquerque">
   <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=breno-albuquerque&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=false" />
 </a>
-
 
 <a target="_blank" href="https://github.com/Breno-Albuquerque">
   <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-albuquerque&layout=compact&show_icons=true&hide_border=true&theme=tokyonight&langs_count=10" />
