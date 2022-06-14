@@ -31,5 +31,5 @@
 </a>
 
 <a target="_blank" href="https://github.com/Breno-Albuquerque">
-  <img align="center" width="50%" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-albuquerque&layout=compact&show_icons=true&hide_border=true&theme=tokyonight&langs_count=10" />
+  <img align="center" width="360" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-albuquerque&layout=compact&show_icons=true&hide_border=true&theme=tokyonight&langs_count=10" />
 </a>
