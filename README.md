@@ -3,10 +3,16 @@
 
 ### About me:
 
-- Linkedin: [@Breno Albuquerque](https://www.linkedin.com/in/breno-albuquerque/)
--  :fire: - Portfolio: [@breno-albuquerque](https://breno-albuquerque.github.io/)
--  📫 - Email: brenoralbu@hotmail.com
--  💬 - Ask me about **React, JavaScript, HTML, and CSS**
+<a target="_blank" href="https://github.com/Breno-Albuquerque">
+  <img align="right" heith="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-albuquerque&layout=compact&hide=Dockerfile&show_icons=true&hide_border=true&theme=tokyonight&langs_count=10" />
+</a>
+
+<p align="left">- Linkedin: [@Breno Albuquerque](https://www.linkedin.com/in/breno-albuquerque/)</p>
+<p align="left">-  :fire: - Portfolio: [@breno-albuquerque](https://breno-albuquerque.github.io/)</p>
+<p align="left">-  📫 - Email: brenoralbu@hotmail.com</p>
+<p align="left">-  💬 - Ask me about **React, JavaScript, HTML, and CSS**</p>
+
+<br clear="both"/>
 
 ---
 
@@ -28,11 +34,10 @@
 
 ### Stats
 
-<a target="_blank" href="https://github.com/Breno-Albuquerque">
-  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=breno-albuquerque&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=false" />
-</a>
+<div align="center">
+  <a  target="_blank" href="https://github.com/Breno-Albuquerque">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=breno-albuquerque&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=false" />
+  </a>
+</div>
 
-<a target="_blank" href="https://github.com/Breno-Albuquerque">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-albuquerque&layout=compact&hide=Dockerfile&show_icons=true&hide_border=true&theme=tokyonight&langs_count=10" />
-</a>
 
