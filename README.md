@@ -6,7 +6,7 @@
 - Linkedin: [@Breno Albuquerque](https://www.linkedin.com/in/breno-albuquerque/)
 -  :fire: - Portfolio: [breno-albuquerque](https://breno-albuquerque.github.io/)
 -  📫 - Email: brenoralbu@hotmail.com
--  💬 - Ask me about: **Node.js, TypeScript, React, Redux**
+-  💬 - Ask me about: **Node.js, TypeScript and React**
 
 ---
 
