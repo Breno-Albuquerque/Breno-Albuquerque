@@ -29,8 +29,21 @@
 ---
 
 ### Stats
+<div align="center">
+  <div>
+    <a href="https://github.com/breno-albuquerque#gh-light-mode-only">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-albuquerque&hide=Dockerfile,Smalltalk&langs_count=8&layout=compact&theme=vue&hide_border=true#gh-light-mode-only" />
+      <img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=breno-albuquerque&theme=vue&hide_border=true#gh-light-mode-only" />
+    </a>
+  </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-albuquerque&layout=compact&hide=Dockerfile,Smalltalk&show_icons=true&hide_border=true&theme=tokyonight&langs_count=10" />
-<!--- <img height="190" src="https://github-readme-stats.vercel.app/api?username=breno-albuquerque&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" /> -->
+  <div>
+    <a href="https://github.com/breno-albuquerque#gh-dark-mode-only">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-albuquerque&hide=Dockerfile,Smalltalk&langs_count=8&layout=compact&theme=vue-dark&hide_border=true#gh-dark-mode-only" />
+      <img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=breno-albuquerque&theme=vue-dark&hide_border=true#gh-dark-mode-only" />
+    </a>
+  </div> 
+</div>
+
 
 
