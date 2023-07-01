@@ -30,8 +30,7 @@
 
 ### Stats
 
-<div align="center">
-    <!--- <img height="190" src="https://github-readme-stats.vercel.app/api?username=breno-albuquerque&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" /> -->
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-albuquerque&layout=compact&hide=Dockerfile,Smalltalk&show_icons=true&hide_border=true&theme=tokyonight&langs_count=10" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-albuquerque&layout=compact&hide=Dockerfile,Smalltalk&show_icons=true&hide_border=true&theme=tokyonight&langs_count=10" />
+<!--- <img height="190" src="https://github-readme-stats.vercel.app/api?username=breno-albuquerque&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" /> -->
+
 
