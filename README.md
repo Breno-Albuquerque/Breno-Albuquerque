@@ -32,8 +32,8 @@
 <div align="center">
   <div>
     <a href="https://github.com/breno-albuquerque">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-albuquerque&hide=Dockerfile,Smalltalk&langs_count=8&layout=compact&theme=vue-dark&hide_border=true#gh-dark-mode-only" />
-      <img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=breno-albuquerque&theme=vue-dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-albuquerque&hide=Dockerfile,Smalltalk&langs_count=8&layout=compact&theme=react&hide_border=true#gh-dark-mode-only" />
+      <img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=breno-albuquerque&theme=react&hide_border=true" />
     </a>
   </div> 
 </div>
