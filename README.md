@@ -31,16 +31,9 @@
 ### Stats
 <div align="center">
   <div>
-    <a href="https://github.com/breno-albuquerque#gh-light-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-albuquerque&hide=Dockerfile,Smalltalk&langs_count=8&layout=compact&theme=vue&hide_border=true#gh-light-mode-only" />
-      <img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=breno-albuquerque&theme=vue&hide_border=true#gh-light-mode-only" />
-    </a>
-  </div>
-
-  <div>
-    <a href="https://github.com/breno-albuquerque#gh-dark-mode-only">
+    <a href="https://github.com/breno-albuquerque">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-albuquerque&hide=Dockerfile,Smalltalk&langs_count=8&layout=compact&theme=vue-dark&hide_border=true#gh-dark-mode-only" />
-      <img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=breno-albuquerque&theme=vue-dark&hide_border=true#gh-dark-mode-only" />
+      <img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=breno-albuquerque&theme=vue-dark&hide_border=true" />
     </a>
   </div> 
 </div>
